@@ -1,13 +1,9 @@
 
-![This is an image](iiii (1).png)
+![This is an image](l.png)
 ---
 
-
-
-My first project is a simple quiz app with 3 quizzes called "Quizland". I wrote code like this to better learn class structure in Python.
-
 What was done ?
-
+-
 - I did 3 exams.
 - I have kept the user information.
 - I calculated how long it takes the user to figure it out.

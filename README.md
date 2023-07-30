@@ -1,5 +1,5 @@
 
-![This is an image](l.png)
+![This is an image](bg.png)
 ---
 My first project is a test application called "Quizland". It was a study I did on learning class structure in Python.
 -

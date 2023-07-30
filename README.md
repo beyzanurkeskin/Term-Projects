@@ -1,5 +1,5 @@
 
-![This is an image](QUIZLAND.png)
+![This is an image](Adsız tasarım (71).png)
 ---
 
 # How to play the game?

@@ -1,5 +1,5 @@
 
-![This is an image](a.png)
+![This is an image](QUIZLAND.png)
 ---
 
 # How to play the game?
